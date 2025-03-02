@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b4cfd68-a3a0-4c98-976f-ffee3f818fad" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$PROJECT_DIR$/../../../../Maven/apache-maven-3.6.3" />
+        <option name="localRepository" value="D:\Maven\rep" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2cngm3kJrXTXXWFO0HeJwqxlWdj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.InsertUsersTest.doInsertUsers.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.RedisTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedissonTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedissonTest.testWatchDog.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.register.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testDeleteUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testSearchUsersByTags.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.UserServiceTest.userRegister.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.find-friend-backend [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.find-friend-backend [package].executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;数据库检测器&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;708&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;707&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.FindFriendApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.UserCenterApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/桌面/APPcode/寻友APP/find-friend-backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\JetBrains\\IntelliJ IDEA 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Excel.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ImportUser.executor&quot;: &quot;Run&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\桌面\毕业 论文\项目改\项目\find-friend-backend\src\main\resources" />
+      <recent name="D:\伙伴匹配\find-friend-backend\src\main\java\com\cyx\findfriend\model\vo" />
+      <recent name="D:\伙伴匹配\find-friend-backend\src\main\java\com\cyx\findfriend\config" />
+      <recent name="D:\伙伴匹配\find-friend-backend\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cyx.findfriend.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cyx.findfriend.model.request" />
+      <recent name="com.cyx.findfriend.common" />
+      <recent name="com.cyx.findfriend.controller" />
+      <recent name="com.cyx.findfriend.mapper" />
+      <recent name="com.cyx.findfriend.model.domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FindFriendApplication">
+    <configuration name="ImportUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyx.findfriend.once.ImportUser" />
+      <module name="find-friend-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyx.findfriend.once.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertUsersTest.doInsertUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="find-friend-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyx.findfriend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cyx.findfriend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.cyx.findfriend.service.InsertUsersTest" />
+      <option name="METHOD_NAME" value="doInsertUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="find-friend-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyx.findfriend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cyx.findfriend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.cyx.findfriend.service.RedisTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedissonTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="find-friend-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyx.findfriend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cyx.findfriend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.cyx.findfriend.service.RedissonTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedissonTest.testWatchDog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="find-friend-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyx.findfriend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cyx.findfriend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.cyx.findfriend.service.RedissonTest" />
+      <option name="METHOD_NAME" value="testWatchDog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindFriendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="find-friend-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyx.findfriend.FindFriendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedissonTest.testWatchDog" />
+        <item itemvalue="JUnit.RedissonTest.test" />
+        <item itemvalue="JUnit.RedisTest.test" />
+        <item itemvalue="JUnit.InsertUsersTest.doInsertUsers" />
+        <item itemvalue="应用程序.ImportUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0b4cfd68-a3a0-4c98-976f-ffee3f818fad" name="更改" comment="" />
+      <created>1708752913417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708752913417</updated>
+      <workItem from="1708752915043" duration="322000" />
+      <workItem from="1708753314953" duration="5469000" />
+      <workItem from="1708760473137" duration="65000" />
+      <workItem from="1708760552056" duration="60000" />
+      <workItem from="1708760623401" duration="4164000" />
+      <workItem from="1708768595609" duration="1676000" />
+      <workItem from="1708774812890" duration="617000" />
+      <workItem from="1708777379978" duration="83000" />
+      <workItem from="1708856947441" duration="1565000" />
+      <workItem from="1708858525246" duration="7323000" />
+      <workItem from="1708910729877" duration="8529000" />
+      <workItem from="1708934304190" duration="145000" />
+      <workItem from="1708938085692" duration="6006000" />
+      <workItem from="1708996337934" duration="8279000" />
+      <workItem from="1709020249261" duration="3657000" />
+      <workItem from="1709026529497" duration="3274000" />
+      <workItem from="1709083312539" duration="20101000" />
+      <workItem from="1709170032109" duration="15554000" />
+      <workItem from="1709258021053" duration="10308000" />
+      <workItem from="1709283703252" duration="6916000" />
+      <workItem from="1709343000265" duration="13683000" />
+      <workItem from="1709430680931" duration="20000000" />
+      <workItem from="1709518184986" duration="25115000" />
+      <workItem from="1709560276052" duration="770000" />
+      <workItem from="1709561063657" duration="216000" />
+      <workItem from="1709561298352" duration="284000" />
+      <workItem from="1709603423645" duration="21207000" />
+      <workItem from="1709647941281" duration="1531000" />
+      <workItem from="1709690860281" duration="19294000" />
+      <workItem from="1709772851911" duration="289000" />
+      <workItem from="1709773215136" duration="14004000" />
+      <workItem from="1709802703028" duration="77000" />
+      <workItem from="1709802850324" duration="1396000" />
+      <workItem from="1709816865843" duration="26000" />
+      <workItem from="1709819707757" duration="416000" />
+      <workItem from="1709820171057" duration="15000" />
+      <workItem from="1709869662452" duration="4631000" />
+      <workItem from="1709901986564" duration="4000" />
+      <workItem from="1709955729564" duration="1199000" />
+      <workItem from="1710060637348" duration="45000" />
+      <workItem from="1710061151561" duration="855000" />
+      <workItem from="1710062488398" duration="25000" />
+      <workItem from="1710063296567" duration="13000" />
+      <workItem from="1710063421318" duration="8000" />
+      <workItem from="1710063773703" duration="2000" />
+      <workItem from="1710063947276" duration="14000" />
+      <workItem from="1710076097687" duration="2827000" />
+      <workItem from="1710137636164" duration="5000" />
+      <workItem from="1710216515132" duration="3000" />
+      <workItem from="1710223647162" duration="14000" />
+      <workItem from="1710574656698" duration="130000" />
+      <workItem from="1710657172546" duration="640000" />
+      <workItem from="1710732227492" duration="2198000" />
+      <workItem from="1710759676475" duration="9000" />
+      <workItem from="1710841938971" duration="406000" />
+      <workItem from="1710842361683" duration="12000" />
+      <workItem from="1710924692695" duration="2397000" />
+      <workItem from="1710945200297" duration="114000" />
+      <workItem from="1710945436053" duration="28000" />
+      <workItem from="1710991574713" duration="1870000" />
+      <workItem from="1711287447048" duration="124000" />
+      <workItem from="1711340184346" duration="3391000" />
+      <workItem from="1711373061082" duration="1038000" />
+      <workItem from="1711531567001" duration="9197000" />
+      <workItem from="1711617638673" duration="8290000" />
+      <workItem from="1711701563848" duration="7770000" />
+      <workItem from="1711844313378" duration="1874000" />
+      <workItem from="1711846675674" duration="3129000" />
+      <workItem from="1711850969379" duration="1330000" />
+      <workItem from="1711853572210" duration="104000" />
+      <workItem from="1711854542796" duration="247000" />
+      <workItem from="1711858288077" duration="40000" />
+      <workItem from="1711889490210" duration="301000" />
+      <workItem from="1711927219823" duration="11126000" />
+      <workItem from="1713408165924" duration="528000" />
+      <workItem from="1713581902878" duration="5611000" />
+      <workItem from="1713610245839" duration="8000" />
+      <workItem from="1713622203579" duration="1946000" />
+      <workItem from="1713664247829" duration="600000" />
+      <workItem from="1740646678279" duration="773000" />
+      <workItem from="1740647463157" duration="3682000" />
+      <workItem from="1740657663034" duration="889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.cyx.findfriend.service.impl.UserServiceImpl$$EnhancerBySpringCGLIB$$b7148791" memberName="CGLIB$CALLBACK_1" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

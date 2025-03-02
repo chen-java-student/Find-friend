@@ -1,0 +1,5 @@
+com\cyx\findfriend\service\InsertUsersTest.class
+com\cyx\findfriend\service\RedissonTest.class
+com\cyx\findfriend\service\RedisTest.class
+com\cyx\findfriend\UserCenterApplicationTests.class
+com\cyx\findfriend\service\UserServiceTest.class

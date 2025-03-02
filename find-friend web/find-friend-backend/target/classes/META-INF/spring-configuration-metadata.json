@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "spring.redis",
+      "type": "com.cyx.findfriend.config.RedissonConfig",
+      "sourceType": "com.cyx.findfriend.config.RedissonConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.cyx.findfriend.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.String",
+      "sourceType": "com.cyx.findfriend.config.RedissonConfig"
+    }
+  ],
+  "hints": []
+}
